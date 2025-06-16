@@ -1,8 +1,4 @@
-Of course. Here is a complete `README.md` file that you can copy and paste directly into your GitHub repository. It explains what the script does, how to use it, and most importantly, details what is required from Intel's ecosystem to make it production-ready.
-
----
-
-# Simple SGX Quote Verifier (Node.js)
+# Simple SGX Quote Verifier (Node.js) (Test)
 
 This repository contains a simple, dependency-free Node.js script (`verify.js`) for verifying an Intel® SGX quote. Its primary purpose is to demonstrate the application-level logic of SGX attestation: parsing a quote and checking its measurements (`MRENCLAVE` and `MRSIGNER`) against expected values.
 
